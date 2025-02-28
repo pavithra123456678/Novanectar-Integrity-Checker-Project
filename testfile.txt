@@ -1,0 +1,3 @@
+This is a test file for the Integrity Checker.
+If this content is changed, the system should detect it.
+Cybersecurity measures ensure data protection.
